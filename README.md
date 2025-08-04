@@ -16,3 +16,5 @@ Dashborad Interaction <a href="https://drive.google.com/file/d/1505Z-rO0AWNlEdvb
 * Created pivot tables according the questions asked.
 * Merge all pivot tables into one dashboard and apply slicer to make dynamin.
  ## Dashborad Image <img width="1308" height="737" alt="dashbaord Screenshort" src="https://github.com/user-attachments/assets/8f9d2b13-58cb-46c0-bd1f-f6de01771a9d" />
+## Conclusion
+The integration of AI in learning environments is accelerating. By analyzing real-world usage data, this dataset offers a valuable lens into how students actually use AI—what works, what doesn't, and where improvements can be made to enhance learning outcomes and reduce student frustration.
