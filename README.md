@@ -10,3 +10,9 @@ The project is to intended the help of educators, data scienists and ed-tech dev
 *	Time engagement patterns across different academic tasks
 *	The effectiveness of AI in supporting productive learning sessions
 Dashborad Interaction <a href="https://drive.google.com/file/d/1505Z-rO0AWNlEdvbPYHdun3B5XJ6_mj2/view?usp=sharing"</a>
+## process 
+* Verify the data for the missing values and anomalies and sort the same.
+* Make sure data is consistant and clean with respect to data type, data format and values used.
+* Created pivot tables according the questions asked.
+* Merge all pivot tables into one dashboard and apply slicer to make dynamin.
+ ## Dashborad Image <img width="1308" height="737" alt="dashbaord Screenshort" src="https://github.com/user-attachments/assets/8f9d2b13-58cb-46c0-bd1f-f6de01771a9d" />
